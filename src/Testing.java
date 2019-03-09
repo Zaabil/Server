@@ -6,7 +6,6 @@ public class Testing {
 		System.out.println("hello");
 	}
 	public static void main(String args[]) {
-	
+		testMethod();
 	}
-
 }
