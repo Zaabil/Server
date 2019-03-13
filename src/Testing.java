@@ -2,10 +2,6 @@
 public class Testing {
 
 	public static void main(String args[]) {
-<<<<<<< HEAD
-		testMethod();
-	}
-=======
 
 
 	}
@@ -29,5 +25,4 @@ public class Testing {
 
 		return countArray;
 	}
->>>>>>> Branch1
 }
